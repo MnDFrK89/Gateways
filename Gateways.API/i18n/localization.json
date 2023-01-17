@@ -1,0 +1,37 @@
+﻿[
+  { 
+    "Key": "400",
+    "LocalizedValue": {
+      "en-US": "Request with malformed syntax.",
+      "es-ES": "Petición mal formada."
+    }
+  },
+  {
+    "Key": "400001",
+    "LocalizedValue": {
+      "en-US": "Full gateway peripherals.",
+      "es-ES": "Perifericos de puerta de enlace llenos."
+    }
+  },
+  {
+    "Key": "404",
+    "LocalizedValue": {
+      "en-US": "Resource not found.",
+      "es-ES": "Recurso no encontrado."
+    }
+  },
+  {
+    "Key": "404001",
+    "LocalizedValue": {
+      "en-US": "Gateway not found.",
+      "es-ES": "Gateway no encontrado."
+    }
+  },
+  {
+    "Key": "404002",
+    "LocalizedValue": {
+      "en-US": "Peripheral not found.",
+      "es-ES": "Periferico no encontrado."
+    }
+  }
+]
